@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/styled-engine": "^5.16.6",
+    "@mui/styles": "^5.16.6"
+  }
+}
